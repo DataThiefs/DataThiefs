@@ -1,18 +1,22 @@
-<!-- Seçenek 1: Gitskins Wordmark (GitHub profilindeki 'Name' alanını 84xrs yaparsan burada 84XRS yazar) -->
+<!-- Üst Gitskins Wordmark (GitHub profilindeki 'Name' alanını 84xrs yaparsan burada 84XRS yazar) -->
 <p align="center">
   <img src="https://www.gitskins.com/api/section/wordmark?username=DataThiefs&theme=dracula&style=aura&v=showcase-wordmark-2" alt="84xrs wordmark visual" />
 </p>
 
-<!-- Seçenek 2: Doğrudan Hareketli 84xrs Yazısı (İstersen üstteki veya bu kalsın) -->
+<!-- 84xrs Tablosunun Hemen Altına Eklenen Pinterest Video Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=84xrs;DataThiefs+%2F%2F+System+%26+Dev" alt="84xrs Typing SVG" />
+  <video src="https://v1.pinimg.com/videos/iht/expMp4/87/c9/60/87c960e6252c484abc5abe8da1d36ae6_720w.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
+
+<!-- Alıntı Söz -->
+<p align="center"><i>"Building the future in silence, letting the code and systems speak."</i></p>
 
 ---
 
-<p align="center">Building, automating, and shipping useful systems in public.</p>
-
-<h2><code>$ which --all toolchain</code></h2>
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
+  <code>$ which --all toolchain</code>
+</h2>
 
 <p align="center">
   <picture>
@@ -21,18 +25,31 @@
   </picture>
 </p>
 
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terminal.svg" width="22" height="22" /> Kullandığım Diller & Teknolojiler
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,cpp,cs,kotlin,ruby,html,css&theme=dark" alt="Languages" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,git,github,linux,windows,powershell,bash,postman&theme=dark" alt="Tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,go,py,js,ts,kotlin,java&theme=dark" alt="Languages 1" /><br/>
+  <img src="https://skillicons.dev/icons?i=ruby,swift,dart,php,lua,bash,powershell,html,css,react&theme=dark" alt="Languages 2" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Premiere.svg" width="22" height="22" /> Video Editing & Motion Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=premiere,aftereffects,blender&theme=dark" alt="Video & 3D Tools" />
+</p>
+*(Not: DaVinci Resolve ve özel prodüksiyon araçların aktif olarak iş akışındadır)*
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot.svg" width="22" height="22" /> 3D Modeling & Game Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,godot,unreal,unity&theme=dark" alt="Game Dev Tools" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="22" height="22" /> Geliştirme Araçları & Sistemler
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,androidstudio,linux,windows,mysql,sqlite&theme=dark" alt="Tools" />
 </p>
 
 ---
 
+<!-- Hareketli Katkı Grafiği (Space Shooter) -->
 <a href="https://github.com/DataThiefs">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=DataThiefs&theme=github-dark&variant=space-shooter&v=space-jet-original-2&mode=light" />
@@ -45,14 +62,21 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/DataThiefs" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00FFFF" alt="GitHub"/></a>
-  <a href="https://discord.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=FF00FF" alt="Discord"/></a>
-  <a href="https://www.youtube.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=00FFFF" alt="YouTube"/></a>
-  <a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=FF00FF" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn"/></a>
-  <a href="mailto:ornek@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF00FF" alt="Email"/></a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/BURAYA_DISCORD_ID_YAZ" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <!-- YouTube: @84xrs -->
+  <a href="https://www.youtube.com/@84xrs" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <!-- Telegram: @legalites -->
+  <a href="https://t.me/legalites" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
 
+<!-- En Alt Hareketli RGB Çizgi GIF'i -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
