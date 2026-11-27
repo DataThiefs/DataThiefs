@@ -4,7 +4,7 @@
 </p>
 
 <!-- Quote -->
-<p align="center"><i>"Building the future in silence, letting the code and systems speak."</i></p>
+<p align="center"><i>Gezmişşş xD."</i></p>
 
 ---
 
