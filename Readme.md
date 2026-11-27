@@ -1,14 +1,9 @@
-<!-- Üst Gitskins Wordmark (GitHub profilindeki 'Name' alanını 84xrs yaparsan burada 84XRS yazar) -->
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=DataThiefs&theme=dracula&style=aura&v=showcase-wordmark-2" alt="84xrs wordmark visual" />
-</p>
-
-<!-- 84xrs Tablosunun Hemen Altına Eklenen Pinterest Video Banner -->
+<!-- Pinterest Video Banner -->
 <p align="center">
   <video src="https://v1.pinimg.com/videos/iht/expMp4/87/c9/60/87c960e6252c484abc5abe8da1d36ae6_720w.mp4" width="100%" autoplay loop muted playsinline></video>
 </p>
 
-<!-- Alıntı Söz -->
+<!-- Quote -->
 <p align="center"><i>"Building the future in silence, letting the code and systems speak."</i></p>
 
 ---
@@ -18,14 +13,7 @@
   <code>$ which --all toolchain</code>
 </h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=DataThiefs&theme=github-dark&style=terminal&v=terminal-stack-1&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=DataThiefs&theme=github-dark&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="DataThiefs terminal toolchain" />
-  </picture>
-</p>
-
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terminal.svg" width="22" height="22" /> Kullandığım Diller & Teknolojiler
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terminal.svg" width="22" height="22" /> Languages & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,go,py,js,ts,kotlin,java&theme=dark" alt="Languages 1" /><br/>
   <img src="https://skillicons.dev/icons?i=ruby,swift,dart,php,lua,bash,powershell,html,css,react&theme=dark" alt="Languages 2" />
@@ -35,27 +23,17 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=premiere,aftereffects,blender&theme=dark" alt="Video & 3D Tools" />
 </p>
-*(Not: DaVinci Resolve ve özel prodüksiyon araçların aktif olarak iş akışındadır)*
+*(Note: DaVinci Resolve and custom production tools are actively in the workflow)*
 
 ### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot.svg" width="22" height="22" /> 3D Modeling & Game Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,godot,unreal,unity&theme=dark" alt="Game Dev Tools" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="22" height="22" /> Geliştirme Araçları & Sistemler
+### <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="22" height="22" /> Development Tools & Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,androidstudio,linux,windows,mysql,sqlite&theme=dark" alt="Tools" />
 </p>
-
----
-
-<!-- Hareketli Katkı Grafiği (Space Shooter) -->
-<a href="https://github.com/DataThiefs">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=DataThiefs&theme=github-dark&variant=space-shooter&v=space-jet-original-2&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=DataThiefs&theme=github-dark&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="DataThiefs animated contribution jet" />
-  </picture>
-</a>
 
 ---
 
@@ -63,7 +41,7 @@
 
 <p align="left">
   <!-- Discord -->
-  <a href="https://discord.com/users/BURAYA_DISCORD_ID_YAZ" target="_blank">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID_HERE" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <!-- YouTube: @84xrs -->
@@ -76,7 +54,7 @@
   </a>
 </p>
 
-<!-- En Alt Hareketli RGB Çizgi GIF'i -->
+<!-- Bottom RGB Line GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
